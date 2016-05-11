@@ -3,6 +3,7 @@
 This is a sample REST API built in Go with authentication from auth0.
 
 ```
+$ go get
 $ go build
 $ ./rest
 ```
