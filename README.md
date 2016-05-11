@@ -1,6 +1,6 @@
 # REST & Go
 
-This is a sample REST API build int Go with authentication from auth0.
+This is a sample REST API built in Go with authentication from auth0.
 
 ```
 $ go build
